@@ -24,3 +24,14 @@
 #### - Size Class - 세로모드일 때와 가로모드일 때의 레이아웃을 다르게 잡아서 설정하는 것 (HIG참고)
 
 ----
+
+## [2022.03.06]
+### ScrollView, margin
+#### - ScrollView의 개념과 실습진행 
+#### - Content Layout Guide: "ScrollView의 컨텐츠 영역"과 관련된 오토 레이아웃 제약 조건을 만드려면 이 레이아웃 가이드를 사용
+#### - FrameLayout: "ScrollView 자체의 프레임" 사각형을 포함하는 오토 레이아웃 제약 조건을 만드려면 이 레이아웃 가이드를 사용
+#### - ScrollView는 적당한 컨텐츠가 있을 때 사용하자.
+#### - margin의 개념과 실습진행 
+#### - margin은 웬만하면 쓰지말자. 
+
+----
