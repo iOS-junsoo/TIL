@@ -35,3 +35,12 @@
 #### - margin은 웬만하면 쓰지말자. 
 
 ----
+
+## [2022.03.13]
+### StackView, Button, Code
+#### - StackView의 개념과 실습진행 
+#### - Button내부에 이미지를 넣을 때 사용할 Insets에 대해서 배웠다.
+#### - 코드로 오토레이아웃을 설정해봤다.
+#### - translatesAutoresizingMaskIntoConstraints는 false, 컴포넌트의 크기와 위치는 필수 
+
+----
